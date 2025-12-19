@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.4
+tkinter
+lxml==4.9.3
+urllib3==2.1.0
+python-dotenv==1.0.0
