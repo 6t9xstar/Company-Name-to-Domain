@@ -23,7 +23,7 @@ A powerful desktop application that extracts valid domain names from company nam
 
 1. Run the application:
    ```bash
-   python domain_extractor.py
+   python perfect_fast_extractor.py
    ```
 
 2. Enter a company name in the input field
@@ -66,3 +66,4 @@ The CSV export includes:
 - The application uses rate limiting to avoid being blocked
 - Search results are limited to top 10 most relevant domains
 - Domain validation uses HTTP HEAD requests for efficiency
+
