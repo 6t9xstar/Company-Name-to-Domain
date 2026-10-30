@@ -1,5 +1,7 @@
 # Company Name to Domain Extractor
 
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/Company-Name-to-Domain?style=social)
+
 A powerful desktop application that extracts valid domain names from company names using anti-CAPTCHA search engines.
 
 ## Features
